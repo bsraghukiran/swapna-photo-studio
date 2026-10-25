@@ -1,0 +1,8 @@
+# Swapna Photo Studio
+
+> Thoughtful photography for weddings, portraits, celebrations, and brands.
+
+## Location
+- Swapna Photo Studio, Plot No 21/E, Sector 4, Nava Nagar, Bagalkot, Karnataka 587103
+
+Set VITE_SITE_URL to the live website origin to publish page links here.

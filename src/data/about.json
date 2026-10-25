@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "About Swapna Photo Studio",
+    "description": "Learn about Swapna Photo Studio, our photo-first approach, and the thoughtful way we document relationships, milestones, and stories."
+  },
+  "story": {
+    "title": "A story-led studio built around people, light, and feeling.",
+    "paragraphs": [
+      "Swapna Photo Studio was created to document real emotion in a refined, honest way. We believe the best photographs make people feel at ease, allowing natural connection and elegant detail to shine through.",
+      "Our approach combines calm direction, editorial composition, and careful post-production so every image feels personal and timeless. Whether the frame is a wedding celebration, a family portrait, or a brand story, we focus on atmosphere and authenticity."
+    ]
+  },
+  "profile": {
+    "name": "Swapna Photo Studio photographer",
+    "role": "A personal, collaborative approach",
+    "bio": "Every session begins with a conversation about what matters to you. From the first planning notes to the finished gallery, the process is shaped around comfort, trust, and artful detail.",
+    "image": "/images/photographer-about.webp"
+  },
+  "values": [
+    { "title": "Natural direction", "description": "We help you feel at ease so the captured frames read as effortless and true." },
+    { "title": "Editorial eye", "description": "Every composition is shaped to feel elevated, balanced, and visually rich." },
+    { "title": "Thoughtful delivery", "description": "Our final gallery is curated with the same care and intention as the session itself." }
+  ],
+  "gallery": [
+    "/gallery/maternity/001.webp",
+    "/gallery/newborn/001.webp",
+    "/gallery/mehandi/001.webp"
+  ]
+}

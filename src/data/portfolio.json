@@ -1,0 +1,2386 @@
+{
+  "meta": {
+    "title": "Photography Portfolio",
+    "description": "Explore wedding, pre-wedding, maternity, newborn, family, celebration, and fashion photography from Swapna Photo Studio."
+  },
+  "categories": [
+    "Wedding",
+    "Pre-Wedding",
+    "Maternity",
+    "Newborn",
+    "Baby",
+    "Baby Shower",
+    "Mehandi",
+    "Fashion"
+  ],
+  "items": [
+    {
+      "title": "Wedding 1",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/001.webp",
+      "alt": "Wedding photography, image 1",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 1",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/001.webp",
+      "alt": "Pre-Wedding photography, image 1",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 1",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/001.webp",
+      "alt": "Maternity photography, image 1",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 1",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/001.webp",
+      "alt": "Newborn photography, image 1",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 1",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/001.webp",
+      "alt": "Baby photography, image 1",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 1",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/001.webp",
+      "alt": "Baby Shower photography, image 1",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 1",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/001.webp",
+      "alt": "Mehandi photography, image 1",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 1",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/001.webp",
+      "alt": "Fashion photography, image 1",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 2",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/002.webp",
+      "alt": "Wedding photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 2",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/002.webp",
+      "alt": "Pre-Wedding photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 2",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/002.webp",
+      "alt": "Maternity photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 2",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/002.webp",
+      "alt": "Newborn photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 2",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/002.webp",
+      "alt": "Baby photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 2",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/002.webp",
+      "alt": "Baby Shower photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Mehandi 2",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/002.webp",
+      "alt": "Mehandi photography, image 2",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 2",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/002.webp",
+      "alt": "Fashion photography, image 2",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 3",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/003.webp",
+      "alt": "Wedding photography, image 3",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 3",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/003.webp",
+      "alt": "Pre-Wedding photography, image 3",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 3",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/003.webp",
+      "alt": "Maternity photography, image 3",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 3",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/003.webp",
+      "alt": "Newborn photography, image 3",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 3",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/003.webp",
+      "alt": "Baby photography, image 3",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 3",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/003.webp",
+      "alt": "Baby Shower photography, image 3",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 3",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/003.webp",
+      "alt": "Mehandi photography, image 3",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 3",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/003.webp",
+      "alt": "Fashion photography, image 3",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 4",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/004.webp",
+      "alt": "Wedding photography, image 4",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 4",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/004.webp",
+      "alt": "Pre-Wedding photography, image 4",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 4",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/004.webp",
+      "alt": "Maternity photography, image 4",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 4",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/004.webp",
+      "alt": "Newborn photography, image 4",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 4",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/004.webp",
+      "alt": "Baby photography, image 4",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 4",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/004.webp",
+      "alt": "Baby Shower photography, image 4",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 4",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/004.webp",
+      "alt": "Mehandi photography, image 4",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 4",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/004.webp",
+      "alt": "Fashion photography, image 4",
+      "aspect": 1.681
+    },
+    {
+      "title": "Wedding 5",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/005.webp",
+      "alt": "Wedding photography, image 5",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 5",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/005.webp",
+      "alt": "Pre-Wedding photography, image 5",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 5",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/005.webp",
+      "alt": "Maternity photography, image 5",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 5",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/005.webp",
+      "alt": "Newborn photography, image 5",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 5",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/005.webp",
+      "alt": "Baby photography, image 5",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 5",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/005.webp",
+      "alt": "Baby Shower photography, image 5",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 5",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/005.webp",
+      "alt": "Mehandi photography, image 5",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 5",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/005.webp",
+      "alt": "Fashion photography, image 5",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 6",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/006.webp",
+      "alt": "Wedding photography, image 6",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 6",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/006.webp",
+      "alt": "Pre-Wedding photography, image 6",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 6",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/006.webp",
+      "alt": "Maternity photography, image 6",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 6",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/006.webp",
+      "alt": "Newborn photography, image 6",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 6",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/006.webp",
+      "alt": "Baby photography, image 6",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 6",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/006.webp",
+      "alt": "Baby Shower photography, image 6",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 6",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/006.webp",
+      "alt": "Mehandi photography, image 6",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 6",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/006.webp",
+      "alt": "Fashion photography, image 6",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 7",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/007.webp",
+      "alt": "Wedding photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 7",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/007.webp",
+      "alt": "Pre-Wedding photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 7",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/007.webp",
+      "alt": "Maternity photography, image 7",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 7",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/007.webp",
+      "alt": "Newborn photography, image 7",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 7",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/007.webp",
+      "alt": "Baby photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 7",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/007.webp",
+      "alt": "Baby Shower photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 7",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/007.webp",
+      "alt": "Mehandi photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 7",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/007.webp",
+      "alt": "Fashion photography, image 7",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 8",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/008.webp",
+      "alt": "Wedding photography, image 8",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 8",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/008.webp",
+      "alt": "Pre-Wedding photography, image 8",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 8",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/008.webp",
+      "alt": "Maternity photography, image 8",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 8",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/008.webp",
+      "alt": "Newborn photography, image 8",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 8",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/008.webp",
+      "alt": "Baby photography, image 8",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 8",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/008.webp",
+      "alt": "Baby Shower photography, image 8",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 8",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/008.webp",
+      "alt": "Mehandi photography, image 8",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 8",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/008.webp",
+      "alt": "Fashion photography, image 8",
+      "aspect": 0.879
+    },
+    {
+      "title": "Wedding 9",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/009.webp",
+      "alt": "Wedding photography, image 9",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 9",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/009.webp",
+      "alt": "Pre-Wedding photography, image 9",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 9",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/009.webp",
+      "alt": "Maternity photography, image 9",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 9",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/009.webp",
+      "alt": "Newborn photography, image 9",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 9",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/009.webp",
+      "alt": "Baby photography, image 9",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 9",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/009.webp",
+      "alt": "Baby Shower photography, image 9",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 9",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/009.webp",
+      "alt": "Mehandi photography, image 9",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 9",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/009.webp",
+      "alt": "Fashion photography, image 9",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 10",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/010.webp",
+      "alt": "Wedding photography, image 10",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 10",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/010.webp",
+      "alt": "Pre-Wedding photography, image 10",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 10",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/010.webp",
+      "alt": "Maternity photography, image 10",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 10",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/010.webp",
+      "alt": "Newborn photography, image 10",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 10",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/010.webp",
+      "alt": "Baby photography, image 10",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 10",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/010.webp",
+      "alt": "Baby Shower photography, image 10",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 10",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/010.webp",
+      "alt": "Mehandi photography, image 10",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 10",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/010.webp",
+      "alt": "Fashion photography, image 10",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 11",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/011.webp",
+      "alt": "Wedding photography, image 11",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 11",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/011.webp",
+      "alt": "Pre-Wedding photography, image 11",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 11",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/011.webp",
+      "alt": "Maternity photography, image 11",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 11",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/011.webp",
+      "alt": "Newborn photography, image 11",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 11",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/011.webp",
+      "alt": "Baby photography, image 11",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 11",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/011.webp",
+      "alt": "Baby Shower photography, image 11",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 11",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/011.webp",
+      "alt": "Mehandi photography, image 11",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 11",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/011.webp",
+      "alt": "Fashion photography, image 11",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 12",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/012.webp",
+      "alt": "Wedding photography, image 12",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 12",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/012.webp",
+      "alt": "Pre-Wedding photography, image 12",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 12",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/012.webp",
+      "alt": "Maternity photography, image 12",
+      "aspect": 1.5
+    },
+    {
+      "title": "Newborn 12",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/012.webp",
+      "alt": "Newborn photography, image 12",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 12",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/012.webp",
+      "alt": "Baby photography, image 12",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 12",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/012.webp",
+      "alt": "Baby Shower photography, image 12",
+      "aspect": 0.666
+    },
+    {
+      "title": "Mehandi 12",
+      "category": "Mehandi",
+      "caption": "Color and celebration from a Mehandi story.",
+      "image": "/gallery/mehandi/012.webp",
+      "alt": "Mehandi photography, image 12",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 12",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/012.webp",
+      "alt": "Fashion photography, image 12",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 13",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/013.webp",
+      "alt": "Wedding photography, image 13",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 13",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/013.webp",
+      "alt": "Pre-Wedding photography, image 13",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 13",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/013.webp",
+      "alt": "Maternity photography, image 13",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 13",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/013.webp",
+      "alt": "Newborn photography, image 13",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 13",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/013.webp",
+      "alt": "Baby photography, image 13",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 13",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/013.webp",
+      "alt": "Baby Shower photography, image 13",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 13",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/013.webp",
+      "alt": "Fashion photography, image 13",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 14",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/014.webp",
+      "alt": "Wedding photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 14",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/014.webp",
+      "alt": "Pre-Wedding photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 14",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/014.webp",
+      "alt": "Maternity photography, image 14",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 14",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/014.webp",
+      "alt": "Newborn photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby 14",
+      "category": "Baby",
+      "caption": "A joyful child portrait from the studio collection.",
+      "image": "/gallery/baby/014.webp",
+      "alt": "Baby photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 14",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/014.webp",
+      "alt": "Baby Shower photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 14",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/014.webp",
+      "alt": "Fashion photography, image 14",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 15",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/015.webp",
+      "alt": "Wedding photography, image 15",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 15",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/015.webp",
+      "alt": "Pre-Wedding photography, image 15",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 15",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/015.webp",
+      "alt": "Maternity photography, image 15",
+      "aspect": 0.733
+    },
+    {
+      "title": "Newborn 15",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/015.webp",
+      "alt": "Newborn photography, image 15",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 15",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/015.webp",
+      "alt": "Baby Shower photography, image 15",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 15",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/015.webp",
+      "alt": "Fashion photography, image 15",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 16",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/016.webp",
+      "alt": "Wedding photography, image 16",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 16",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/016.webp",
+      "alt": "Pre-Wedding photography, image 16",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 16",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/016.webp",
+      "alt": "Maternity photography, image 16",
+      "aspect": 0.666
+    },
+    {
+      "title": "Newborn 16",
+      "category": "Newborn",
+      "caption": "A tender newborn portrait, captured gently.",
+      "image": "/gallery/newborn/016.webp",
+      "alt": "Newborn photography, image 16",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 16",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/016.webp",
+      "alt": "Baby Shower photography, image 16",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 16",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/016.webp",
+      "alt": "Fashion photography, image 16",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 17",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/017.webp",
+      "alt": "Wedding photography, image 17",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 17",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/017.webp",
+      "alt": "Pre-Wedding photography, image 17",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 17",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/017.webp",
+      "alt": "Maternity photography, image 17",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 17",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/017.webp",
+      "alt": "Baby Shower photography, image 17",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 17",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/017.webp",
+      "alt": "Fashion photography, image 17",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 18",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/018.webp",
+      "alt": "Wedding photography, image 18",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 18",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/018.webp",
+      "alt": "Pre-Wedding photography, image 18",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 18",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/018.webp",
+      "alt": "Maternity photography, image 18",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 18",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/018.webp",
+      "alt": "Baby Shower photography, image 18",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 18",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/018.webp",
+      "alt": "Fashion photography, image 18",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 19",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/019.webp",
+      "alt": "Wedding photography, image 19",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 19",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/019.webp",
+      "alt": "Pre-Wedding photography, image 19",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 19",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/019.webp",
+      "alt": "Maternity photography, image 19",
+      "aspect": 1.5
+    },
+    {
+      "title": "Baby Shower 19",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/019.webp",
+      "alt": "Baby Shower photography, image 19",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 19",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/019.webp",
+      "alt": "Fashion photography, image 19",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 20",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/020.webp",
+      "alt": "Wedding photography, image 20",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 20",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/020.webp",
+      "alt": "Pre-Wedding photography, image 20",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 20",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/020.webp",
+      "alt": "Maternity photography, image 20",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 20",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/020.webp",
+      "alt": "Baby Shower photography, image 20",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 20",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/020.webp",
+      "alt": "Fashion photography, image 20",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 21",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/021.webp",
+      "alt": "Wedding photography, image 21",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 21",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/021.webp",
+      "alt": "Pre-Wedding photography, image 21",
+      "aspect": 1.5
+    },
+    {
+      "title": "Maternity 21",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/021.webp",
+      "alt": "Maternity photography, image 21",
+      "aspect": 0.666
+    },
+    {
+      "title": "Baby Shower 21",
+      "category": "Baby Shower",
+      "caption": "A family celebration, photographed with warmth and care.",
+      "image": "/gallery/baby-shower/021.webp",
+      "alt": "Baby Shower photography, image 21",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 21",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/021.webp",
+      "alt": "Fashion photography, image 21",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 22",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/022.webp",
+      "alt": "Wedding photography, image 22",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 22",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/022.webp",
+      "alt": "Pre-Wedding photography, image 22",
+      "aspect": 0.666
+    },
+    {
+      "title": "Maternity 22",
+      "category": "Maternity",
+      "caption": "A quiet moment from a maternity photography session.",
+      "image": "/gallery/maternity/022.webp",
+      "alt": "Maternity photography, image 22",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 22",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/022.webp",
+      "alt": "Fashion photography, image 22",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 23",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/023.webp",
+      "alt": "Wedding photography, image 23",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 23",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/023.webp",
+      "alt": "Pre-Wedding photography, image 23",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 23",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/023.webp",
+      "alt": "Fashion photography, image 23",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 24",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/024.webp",
+      "alt": "Wedding photography, image 24",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 24",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/024.webp",
+      "alt": "Pre-Wedding photography, image 24",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 24",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/024.webp",
+      "alt": "Fashion photography, image 24",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 25",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/025.webp",
+      "alt": "Wedding photography, image 25",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 25",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/025.webp",
+      "alt": "Pre-Wedding photography, image 25",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 25",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/025.webp",
+      "alt": "Fashion photography, image 25",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 26",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/026.webp",
+      "alt": "Wedding photography, image 26",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 26",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/026.webp",
+      "alt": "Pre-Wedding photography, image 26",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 26",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/026.webp",
+      "alt": "Fashion photography, image 26",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 27",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/027.webp",
+      "alt": "Wedding photography, image 27",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 27",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/027.webp",
+      "alt": "Pre-Wedding photography, image 27",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 27",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/027.webp",
+      "alt": "Fashion photography, image 27",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 28",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/028.webp",
+      "alt": "Wedding photography, image 28",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 28",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/028.webp",
+      "alt": "Pre-Wedding photography, image 28",
+      "aspect": 1.5
+    },
+    {
+      "title": "Fashion 28",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/028.webp",
+      "alt": "Fashion photography, image 28",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 29",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/029.webp",
+      "alt": "Wedding photography, image 29",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 29",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/029.webp",
+      "alt": "Pre-Wedding photography, image 29",
+      "aspect": 0.666
+    },
+    {
+      "title": "Fashion 29",
+      "category": "Fashion",
+      "caption": "An expressive portrait from a fashion photography session.",
+      "image": "/gallery/fashion/029.webp",
+      "alt": "Fashion photography, image 29",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 30",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/030.webp",
+      "alt": "Wedding photography, image 30",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 30",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/030.webp",
+      "alt": "Pre-Wedding photography, image 30",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 31",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/031.webp",
+      "alt": "Wedding photography, image 31",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 31",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/031.webp",
+      "alt": "Pre-Wedding photography, image 31",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 32",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/032.webp",
+      "alt": "Wedding photography, image 32",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 32",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/032.webp",
+      "alt": "Pre-Wedding photography, image 32",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 33",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/033.webp",
+      "alt": "Wedding photography, image 33",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 33",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/033.webp",
+      "alt": "Pre-Wedding photography, image 33",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 34",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/034.webp",
+      "alt": "Wedding photography, image 34",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 34",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/034.webp",
+      "alt": "Pre-Wedding photography, image 34",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 35",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/035.webp",
+      "alt": "Wedding photography, image 35",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 35",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/035.webp",
+      "alt": "Pre-Wedding photography, image 35",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 36",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/036.webp",
+      "alt": "Wedding photography, image 36",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 36",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/036.webp",
+      "alt": "Pre-Wedding photography, image 36",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 37",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/037.webp",
+      "alt": "Wedding photography, image 37",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 37",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/037.webp",
+      "alt": "Pre-Wedding photography, image 37",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 38",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/038.webp",
+      "alt": "Wedding photography, image 38",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 38",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/038.webp",
+      "alt": "Pre-Wedding photography, image 38",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 39",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/039.webp",
+      "alt": "Wedding photography, image 39",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 39",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/039.webp",
+      "alt": "Pre-Wedding photography, image 39",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 40",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/040.webp",
+      "alt": "Wedding photography, image 40",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 40",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/040.webp",
+      "alt": "Pre-Wedding photography, image 40",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 41",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/041.webp",
+      "alt": "Wedding photography, image 41",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 41",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/041.webp",
+      "alt": "Pre-Wedding photography, image 41",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 42",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/042.webp",
+      "alt": "Wedding photography, image 42",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 42",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/042.webp",
+      "alt": "Pre-Wedding photography, image 42",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 43",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/043.webp",
+      "alt": "Wedding photography, image 43",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 43",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/043.webp",
+      "alt": "Pre-Wedding photography, image 43",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 44",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/044.webp",
+      "alt": "Wedding photography, image 44",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 44",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/044.webp",
+      "alt": "Pre-Wedding photography, image 44",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 45",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/045.webp",
+      "alt": "Wedding photography, image 45",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 45",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/045.webp",
+      "alt": "Pre-Wedding photography, image 45",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 46",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/046.webp",
+      "alt": "Wedding photography, image 46",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 46",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/046.webp",
+      "alt": "Pre-Wedding photography, image 46",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 47",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/047.webp",
+      "alt": "Wedding photography, image 47",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 47",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/047.webp",
+      "alt": "Pre-Wedding photography, image 47",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 48",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/048.webp",
+      "alt": "Wedding photography, image 48",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 48",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/048.webp",
+      "alt": "Pre-Wedding photography, image 48",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 49",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/049.webp",
+      "alt": "Wedding photography, image 49",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 49",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/049.webp",
+      "alt": "Pre-Wedding photography, image 49",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 50",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/050.webp",
+      "alt": "Wedding photography, image 50",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 50",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/050.webp",
+      "alt": "Pre-Wedding photography, image 50",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 51",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/051.webp",
+      "alt": "Wedding photography, image 51",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 51",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/051.webp",
+      "alt": "Pre-Wedding photography, image 51",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 52",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/052.webp",
+      "alt": "Wedding photography, image 52",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 52",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/052.webp",
+      "alt": "Pre-Wedding photography, image 52",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 53",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/053.webp",
+      "alt": "Wedding photography, image 53",
+      "aspect": 0.666
+    },
+    {
+      "title": "Pre-Wedding 53",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/053.webp",
+      "alt": "Pre-Wedding photography, image 53",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 54",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/054.webp",
+      "alt": "Wedding photography, image 54",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 54",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/054.webp",
+      "alt": "Pre-Wedding photography, image 54",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 55",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/055.webp",
+      "alt": "Wedding photography, image 55",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 55",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/055.webp",
+      "alt": "Pre-Wedding photography, image 55",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 56",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/056.webp",
+      "alt": "Wedding photography, image 56",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 56",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/056.webp",
+      "alt": "Pre-Wedding photography, image 56",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 57",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/057.webp",
+      "alt": "Wedding photography, image 57",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 57",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/057.webp",
+      "alt": "Pre-Wedding photography, image 57",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 58",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/058.webp",
+      "alt": "Wedding photography, image 58",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 58",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/058.webp",
+      "alt": "Pre-Wedding photography, image 58",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 59",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/059.webp",
+      "alt": "Wedding photography, image 59",
+      "aspect": 1.5
+    },
+    {
+      "title": "Pre-Wedding 59",
+      "category": "Pre-Wedding",
+      "caption": "A relaxed portrait from a pre-wedding story.",
+      "image": "/gallery/pre-wedding/059.webp",
+      "alt": "Pre-Wedding photography, image 59",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 60",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/060.webp",
+      "alt": "Wedding photography, image 60",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 61",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/061.webp",
+      "alt": "Wedding photography, image 61",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 62",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/062.webp",
+      "alt": "Wedding photography, image 62",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 63",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/063.webp",
+      "alt": "Wedding photography, image 63",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 64",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/064.webp",
+      "alt": "Wedding photography, image 64",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 65",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/065.webp",
+      "alt": "Wedding photography, image 65",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 66",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/066.webp",
+      "alt": "Wedding photography, image 66",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 67",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/067.webp",
+      "alt": "Wedding photography, image 67",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 68",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/068.webp",
+      "alt": "Wedding photography, image 68",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 69",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/069.webp",
+      "alt": "Wedding photography, image 69",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 70",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/070.webp",
+      "alt": "Wedding photography, image 70",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 71",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/071.webp",
+      "alt": "Wedding photography, image 71",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 72",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/072.webp",
+      "alt": "Wedding photography, image 72",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 73",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/073.webp",
+      "alt": "Wedding photography, image 73",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 74",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/074.webp",
+      "alt": "Wedding photography, image 74",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 75",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/075.webp",
+      "alt": "Wedding photography, image 75",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 76",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/076.webp",
+      "alt": "Wedding photography, image 76",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 77",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/077.webp",
+      "alt": "Wedding photography, image 77",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 78",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/078.webp",
+      "alt": "Wedding photography, image 78",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 79",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/079.webp",
+      "alt": "Wedding photography, image 79",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 80",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/080.webp",
+      "alt": "Wedding photography, image 80",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 81",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/081.webp",
+      "alt": "Wedding photography, image 81",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 82",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/082.webp",
+      "alt": "Wedding photography, image 82",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 83",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/083.webp",
+      "alt": "Wedding photography, image 83",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 84",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/084.webp",
+      "alt": "Wedding photography, image 84",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 85",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/085.webp",
+      "alt": "Wedding photography, image 85",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 86",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/086.webp",
+      "alt": "Wedding photography, image 86",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 87",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/087.webp",
+      "alt": "Wedding photography, image 87",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 88",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/088.webp",
+      "alt": "Wedding photography, image 88",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 89",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/089.webp",
+      "alt": "Wedding photography, image 89",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 90",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/090.webp",
+      "alt": "Wedding photography, image 90",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 91",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/091.webp",
+      "alt": "Wedding photography, image 91",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 92",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/092.webp",
+      "alt": "Wedding photography, image 92",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 93",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/093.webp",
+      "alt": "Wedding photography, image 93",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 94",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/094.webp",
+      "alt": "Wedding photography, image 94",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 95",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/095.webp",
+      "alt": "Wedding photography, image 95",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 96",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/096.webp",
+      "alt": "Wedding photography, image 96",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 97",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/097.webp",
+      "alt": "Wedding photography, image 97",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 98",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/098.webp",
+      "alt": "Wedding photography, image 98",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 99",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/099.webp",
+      "alt": "Wedding photography, image 99",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 100",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/100.webp",
+      "alt": "Wedding photography, image 100",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 101",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/101.webp",
+      "alt": "Wedding photography, image 101",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 102",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/102.webp",
+      "alt": "Wedding photography, image 102",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 103",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/103.webp",
+      "alt": "Wedding photography, image 103",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 104",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/104.webp",
+      "alt": "Wedding photography, image 104",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 105",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/105.webp",
+      "alt": "Wedding photography, image 105",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 106",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/106.webp",
+      "alt": "Wedding photography, image 106",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 107",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/107.webp",
+      "alt": "Wedding photography, image 107",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 108",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/108.webp",
+      "alt": "Wedding photography, image 108",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 109",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/109.webp",
+      "alt": "Wedding photography, image 109",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 110",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/110.webp",
+      "alt": "Wedding photography, image 110",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 111",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/111.webp",
+      "alt": "Wedding photography, image 111",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 112",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/112.webp",
+      "alt": "Wedding photography, image 112",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 113",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/113.webp",
+      "alt": "Wedding photography, image 113",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 114",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/114.webp",
+      "alt": "Wedding photography, image 114",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 115",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/115.webp",
+      "alt": "Wedding photography, image 115",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 116",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/116.webp",
+      "alt": "Wedding photography, image 116",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 117",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/117.webp",
+      "alt": "Wedding photography, image 117",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 118",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/118.webp",
+      "alt": "Wedding photography, image 118",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 119",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/119.webp",
+      "alt": "Wedding photography, image 119",
+      "aspect": 1.5
+    },
+    {
+      "title": "Wedding 120",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/120.webp",
+      "alt": "Wedding photography, image 120",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 121",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/121.webp",
+      "alt": "Wedding photography, image 121",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 122",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/122.webp",
+      "alt": "Wedding photography, image 122",
+      "aspect": 0.666
+    },
+    {
+      "title": "Wedding 123",
+      "category": "Wedding",
+      "caption": "A moment from a wedding day, captured as it unfolded.",
+      "image": "/gallery/wedding/123.webp",
+      "alt": "Wedding photography, image 123",
+      "aspect": 0.666
+    }
+  ]
+}

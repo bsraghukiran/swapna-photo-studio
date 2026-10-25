@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Photography Journal",
+    "description": "Practical notes and inspiration for planning photography sessions, weddings, portraits, and brand imagery."
+  },
+  "articles": [
+    {
+      "slug": "planning-a-relaxed-wedding-photography-timeline",
+      "title": "A gentler way to plan your wedding photography timeline",
+      "category": "Wedding planning",
+      "excerpt": "A little breathing room can make space for the photographs that feel most like you.",
+      "author": "Studio journal (placeholder)",
+      "published": "Publication date to be added",
+      "image": "/gallery/wedding/002.webp",
+      "sections": [
+        {
+          "heading": "Start with the feeling, not the shot list",
+          "paragraphs": [
+            "Before mapping every photograph onto a clock, talk about the parts of the day you want to remember. It may be a quiet exchange before the ceremony, a lively room full of friends, or the small rituals shared with family.",
+            "That conversation gives your photographer a sense of what matters, so the plan can support the day instead of turning it into a checklist."
+          ]
+        },
+        {
+          "heading": "Leave room between the moments",
+          "paragraphs": [
+            "Travel, greetings, and outfit changes often take longer than expected. A few unhurried pockets in the schedule help everyone stay present and give candid moments time to happen.",
+            "If portraits are important to you, choose a calm location close to the celebration and agree on a short window that feels comfortable."
+          ]
+        },
+        {
+          "heading": "Share the practical details early",
+          "paragraphs": [
+            "Send your photographer the venue address, ceremony timing, key family groupings, and any access instructions in advance. A trusted friend can help gather people for group portraits while you stay in the moment.",
+            "Every celebration is different; use these ideas as a starting point and adapt them to your plans."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "feeling-comfortable-in-front-of-the-camera",
+      "title": "How to feel more comfortable in front of the camera",
+      "category": "Portraits",
+      "excerpt": "You do not need to know how to pose. A thoughtful session begins with feeling at ease.",
+      "author": "Studio journal (placeholder)",
+      "published": "Publication date to be added",
+      "image": "/gallery/fashion/002.webp",
+      "sections": [
+        {
+          "heading": "Choose a setting that feels familiar",
+          "paragraphs": [
+            "A favourite walk, a quiet room, or a place connected to your work can help you settle in. The right setting gives you something natural to do and makes the photographs more personal.",
+            "Think about how you want the images to feel—bright and open, intimate and quiet, or full of movement—and use that to guide the location."
+          ]
+        },
+        {
+          "heading": "Wear something that lets you be yourself",
+          "paragraphs": [
+            "Comfort tends to show in photographs. Choose pieces you can move in, then bring one alternative if you want a change in mood. Simple textures and colours that you already enjoy are a useful place to begin.",
+            "There is no need to buy a new wardrobe for a portrait session. A short conversation about the intended use of the images can help narrow down what works."
+          ]
+        },
+        {
+          "heading": "Let the session unfold",
+          "paragraphs": [
+            "You do not have to arrive with poses prepared. Gentle prompts, movement, and conversation can make portraits feel less formal and more like you.",
+            "Tell your photographer if anything feels awkward. Small adjustments to the pace, light, or direction can make a real difference."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "preparing-products-for-a-photography-session",
+      "title": "Preparing products for a photography session",
+      "category": "For brands",
+      "excerpt": "A clear visual brief and a little preparation help a product story feel cohesive.",
+      "author": "Studio journal (placeholder)",
+      "published": "Publication date to be added",
+      "image": "/images/product.webp",
+      "sections": [
+        {
+          "heading": "Decide where the images will be used",
+          "paragraphs": [
+            "A product page, a launch campaign, and social content may need different crops and compositions. List the channels and formats before the shoot so the image plan can cover them.",
+            "Share a few visual references and note what you like about each one—lighting, colour, framing, or mood—rather than relying on a reference image alone."
+          ]
+        },
+        {
+          "heading": "Prepare the products and props",
+          "paragraphs": [
+            "Clean each item, check labels and packaging, and bring backups where possible. If props or styling materials are part of the concept, decide which ones support the product and which might distract.",
+            "For reflective or delicate items, ask your photographer about handling and transport before the session."
+          ]
+        },
+        {
+          "heading": "Agree on the deliverables",
+          "paragraphs": [
+            "Clarify how many final images you need, the intended aspect ratios, and any usage requirements. A short written brief helps everyone share the same expectations.",
+            "Leave time for review and feedback in your launch schedule. These details can be tailored to the scale and style of each project."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "title": "Wedding, Portrait & Editorial Photography",
+    "description": "Swapna Photo Studio creates thoughtful wedding, portrait, family, and editorial photography with a timeless, story-led aesthetic."
+  },
+  "hero": {
+    "eyebrow": "A considered approach to photography",
+    "title": "Timeless photography for life’s most meaningful moments.",
+    "description": "Honest, artful imagery for the fleeting moments and people you want to remember.",
+    "primaryImage": "/gallery/pre-wedding/024.webp",
+    "secondaryImage": "/gallery/wedding/001.webp"
+  },
+  "intro": {
+    "title": "A calm, natural approach to visual storytelling.",
+    "body": "Swapna Photo Studio blends cinematic composition, warm direction, and thoughtful editing to create imagery that feels effortless and deeply personal. We work across weddings, portraits, family sessions, and commercial storytelling."
+  },
+  "featuredServices": [
+    "Wedding Photography",
+    "Portrait Photography",
+    "Family Photography"
+  ]
+}

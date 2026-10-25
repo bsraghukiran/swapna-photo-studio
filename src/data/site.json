@@ -1,0 +1,20 @@
+{
+  "name": "Swapna Photo Studio",
+  "legalName": "Swapna Photo Studio",
+  "tagline": "Photography & visual storytelling",
+  "description": "Thoughtful photography for weddings, portraits, celebrations, and brands.",
+  "url": "",
+  "address": {
+    "streetAddress": "Plot No 21/E, Sector 4, Nava Nagar",
+    "addressLocality": "Bagalkot",
+    "addressRegion": "Karnataka",
+    "postalCode": "587103",
+    "addressCountry": "IN",
+    "display": "Swapna Photo Studio, Plot No 21/E, Sector 4, Nava Nagar, Bagalkot, Karnataka 587103"
+  },
+  "mapsUrl": "https://www.google.com/maps?sca_esv=af086fc15bffb833&sxsrf=APpeQnt-SD7bFxR1fMM6bkjEoYjrYQGgow:1792852468793&biw=1536&bih=730&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiHHN3YXBuYSBwaG90byBzdHVkaW8gYmFnYWxrb3QyAhAmMggQABiJBRiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI9iVQtgJY4yFwAXgAkAEAmAGiAaABugiqAQMwLjm4AQPIAQD4AQGYAgqgAp4KwgIOEC4YgAQYxwEYrwEYsAPCAggQABiABBiwA8ICBxAAGB4YsAPCAgsQABiABBiiBBiwA8ICBRAAGIAEwgILEAAYgAQYigUYkQLCAgYQABgWGB6YAwCIBgGQBgeSBwMxLjmgB_8gsgcDMC45uAeFCsIHBTItMy43yAdWgAgB&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KTno-dQbecc7MeHIxSXiuuxt&daddr=plot+no+21%2FE%2C+Sector+4%2C+Nava+Nagar%2C+Bagalkot%2C+Karnataka+587103",
+  "defaultOgImage": "/gallery/pre-wedding/024.webp",
+  "locale": "en_IN",
+  "language": "en",
+  "contactEmail": "info@mindfreesoftwares.com"
+}

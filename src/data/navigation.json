@@ -1,0 +1,10 @@
+[
+  { "label": "Home", "href": "/" },
+  { "label": "About", "href": "/about" },
+  { "label": "Services", "href": "/services" },
+  { "label": "Portfolio", "href": "/portfolio" },
+  { "label": "Journal", "href": "/journal" },
+  { "label": "Pricing", "href": "/pricing" },
+  { "label": "Booking", "href": "/booking" },
+  { "label": "Contact", "href": "/contact" }
+]

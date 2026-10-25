@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Photography Services",
+    "description": "Explore wedding, portrait, family, event, product, and cinematic videography services for meaningful stories and brand moments."
+  },
+  "services": [
+    {
+      "name": "Wedding Photography",
+      "slug": "wedding-photography",
+      "description": "Celebratory, story-led wedding coverage that preserves the atmosphere, details, and emotions of your day.",
+      "planning": "We can discuss ceremony and reception timings, important people, family portraits, and the moments you most want remembered.",
+      "image": "/gallery/wedding/001.webp"
+    },
+    {
+      "name": "Pre-Wedding Photography",
+      "slug": "pre-wedding-photography",
+      "description": "Romantic sessions designed for location storytelling, natural movement, and elegant portraits.",
+      "planning": "Choose a setting and visual direction together, then agree on timing, travel, outfits, and the final gallery scope.",
+      "image": "/gallery/pre-wedding/002.webp"
+    },
+    {
+      "name": "Portrait Photography",
+      "slug": "portrait-photography",
+      "description": "Confident, polished portraits for individuals, couples, and creatives seeking a refined personal brand.",
+      "planning": "We discuss how you will use the photographs, the feeling you want, and a setting that helps you feel at ease.",
+      "image": "/gallery/fashion/002.webp"
+    },
+    {
+      "name": "Family Photography",
+      "slug": "family-photography",
+      "description": "Thoughtful family sessions that document warmth, movement, and genuine connection without the stress.",
+      "planning": "We plan around the ages, routines, location, and pace that will help everyone feel comfortable.",
+      "image": "/gallery/baby/001.webp"
+    },
+    {
+      "name": "Maternity & Newborn Photography",
+      "slug": "maternity-newborn-photography",
+      "description": "Gentle, intimate sessions designed around the softness, comfort, and emotion of early family chapters.",
+      "planning": "Timing, comfort, location, and any family preferences are discussed before the session.",
+      "image": "/gallery/maternity/001.webp"
+    },
+    {
+      "name": "Birthday & Event Photography",
+      "slug": "birthday-event-photography",
+      "description": "Lively documentation of birthdays, celebrations, and milestone gatherings with a candid editorial touch.",
+      "planning": "We review the event schedule, venue, key people, and moments that matter most to you.",
+      "image": "/gallery/baby-shower/002.webp"
+    },
+    {
+      "name": "Corporate Photography",
+      "slug": "corporate-photography",
+      "description": "Clean, confident business imagery that supports personal branding, teams, and professional storytelling.",
+      "planning": "We align on the audience, image uses, participants, schedule, and any brand guidance.",
+      "image": "/gallery/fashion/001.webp"
+    },
+    {
+      "name": "Product Photography",
+      "slug": "product-photography",
+      "description": "Refined product visuals that showcase texture, mood, and desirability with commercial polish.",
+      "planning": "A brief can cover product variants, styling direction, intended formats, and usage requirements.",
+      "image": "/images/product.webp"
+    },
+    {
+      "name": "Fashion Photography",
+      "slug": "fashion-photography",
+      "description": "Artful fashion narratives with direction, styling sensitivity, and visually compelling framing.",
+      "planning": "We can coordinate on the concept, styling, location, team, schedule, and image usage.",
+      "image": "/images/fashion.webp"
+    },
+    {
+      "name": "Cinematic Videography",
+      "slug": "cinematic-videography",
+      "description": "Emotion-first video storytelling designed for weddings, campaigns, and meaningful life milestones.",
+      "planning": "We agree on the story, coverage, format, soundtrack considerations, and delivery requirements.",
+      "image": "/gallery/pre-wedding/002.webp"
+    }
+  ]
+}
